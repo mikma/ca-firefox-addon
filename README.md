@@ -1,6 +1,6 @@
-# CACert CA root certificate Installer
+# &lt;FILL IN&gt; CA root certificate Installer
 
-This addon adds the CACert root certificate to the Firefox trusted root store.
+This addon adds the &lt;FILL IN&gt; root certificate to the Firefox trusted root store.
 
 You can also use [certutil](https://www.mozilla.org/projects/security/pki/nss/tools/certutil.html#1034010) to add root certificates to Firefox.
 
@@ -10,4 +10,4 @@ Public Domain/WTFPL.
 
 ## Todo
 
-Would be nice to also add the [CACert Revocation List](http://wiki.cacert.org/FAQ/BrowserClients#Installing_the_CRL). I was not able to find out how to do this.
+Would be nice to also add the Revocation List when available. I was not able to find out how to do this.
