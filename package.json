@@ -1,10 +1,10 @@
 {
-    "name": "cacert-addon",
+    "name": "<FILL IN>",
     "license": "WTFPL",
-    "author": "Moritz Bartl",
+    "author": "<FILL IN>",
     "version": "0.1",
-    "fullName": "CACert Root Certificate",
-    "homepage": "https://github.com/moba/cacert-firefox-addon",
-    "id": "jid1-C86cNe1crgj9bw",
-    "description": "adds the CACert root to the Firefox trusted root certificate store"
+    "fullName": "<FILL IN>",
+    "homepage": "<FILL IN>/",
+    "id": "<FILL IN>",
+    "description": "<FILL IN>"
 }
