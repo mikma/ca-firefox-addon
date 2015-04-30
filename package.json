@@ -1,10 +1,10 @@
 {
-    "name": "<FILL IN>",
+    "name": "m7nca-addon",
     "license": "WTFPL",
-    "author": "<FILL IN>",
+    "author": "Mikael Magnusson",
     "version": "0.1",
-    "fullName": "<FILL IN>",
-    "homepage": "<FILL IN>/",
-    "id": "<FILL IN>",
-    "description": "<FILL IN>"
+    "fullName": "m7n CA 2 Root Certificate",
+    "homepage": "https://github.com/mikma/",
+    "id": "jid1-xxxxxxxxxxxxxx",
+    "description": "adds the m7n CA 2 to the Firefox trusted root certificate store"
 }
